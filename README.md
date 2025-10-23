@@ -65,9 +65,8 @@ pip install pandas numpy scikit-learn xgboost matplotlib
 
 ## File Structure
 
-- `paste.txt` - Python code notebook/script with full data loading, preprocessing, model training, and evaluation pipeline.
-- `paste-2.txt` - Dataset snippets or additional code used for transaction data handling and model testing.
-
+- `Fault_detection-Final (2).ipynb` - Python code notebook/script with full data loading, preprocessing, model training, and evaluation pipeline.
+- `Isolation_forest (2).ipynb` - Dataset snippets or additional code used for transaction data handling and model testing.
 ---
 
 ## Model Details
